@@ -8,3 +8,7 @@ This little sketch implements a callback functionality I added into the Leonardo
 I'm betting there's a unique warm-boot type message sent, which would be better than the current solution, as plugging in the Leonardo starts the countdown to entering the text.
 I've kept the sketch very simple - and it shouldn't be too hard to write it so it skips the first USB init received.
 
+https://forum.arduino.cc/t/arduino-leonardo-how-to-decipher-the-signals-the-pc-sends-on-a-soft-reboot/678726
+
+https://forum.arduino.cc/t/detect-when-a-pc-reboots/480727/2
+
