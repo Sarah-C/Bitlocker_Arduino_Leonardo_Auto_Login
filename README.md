@@ -19,3 +19,7 @@ https://forum.arduino.cc/t/detect-when-a-pc-reboots/480727/2
 
 Example of an Leonardo on a USB key:             
 ![image](https://user-images.githubusercontent.com/1586332/172832360-74f80115-60de-4ee8-848b-02f241951935.png)
+
+
+The normal sized Leonardo is a bit cumbersome for this use-case:                 
+![image](https://user-images.githubusercontent.com/1586332/172832862-b2bdcfad-18e5-41fa-975e-ef2a7127d0c6.png)
